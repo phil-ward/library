@@ -2,6 +2,8 @@
 
 A small library app built as a solution to [The Odin Project's Library assignment](https://www.theodinproject.com/lessons/node-path-javascript-library) (JavaScript path).
 
+**[Live demo](https://phil-ward.github.io/library/)**
+
 Books are stored as objects in an array, and the display is rendered from that array. The data and the DOM are kept as separate concerns: the array is the single source of truth, and the table is regenerated from it after every change.
 
 ## Features
